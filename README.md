@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a pentesting suite.**
 
-- 🌱 I’m currently learning **C++ WINAPI, Vue.js.**
+- 🌱 I’m currently learning **C++ QT5, Vue.js.**
 
 - 💬 Ask me about **flask, pentesting, networking**
 
