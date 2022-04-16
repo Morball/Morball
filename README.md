@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#**.
 
-- 💬 Ask me about **flask, pentesting, networking**
+- 💬 Ask me about **flask, pentesting, gamehacking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
